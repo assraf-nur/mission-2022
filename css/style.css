@@ -1,3 +1,27 @@
 body{
     font-family: 'Roboto Condensed', sans-serif;
 }
+.flex-container{
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.half-width{
+    width: 50%;
+}
+.person-image{
+    width: 65%;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+span{
+    color: #25aae7;
+}
+.mission-text{
+    width: 60%;
+    font-size: 50px;
+}
+p{
+    text-align: justify;
+}
