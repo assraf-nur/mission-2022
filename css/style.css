@@ -1,6 +1,7 @@
 body{
     font-family: 'Roboto Condensed', sans-serif;
 }
+/* first section */
 .flex-container{
     display: flex;
     margin-bottom: 100px;
@@ -13,14 +14,14 @@ body{
 .person-image{
     width: 65%;
     margin-top: 10px;
-    margin-left: 40px;
+    border-radius: 25px;
 }
 span{
     color: #25aae7;
 }
 .mission-text{
-    width: 60%;
-    font-size: 50px;
+    width: 70%;
+    font-size: 60px;
     margin-left: 10px;
 }
 p{
@@ -38,6 +39,100 @@ p{
     font-weight: 500;
     color: white;
 }
+.my-mission2{
+    text-align: center;
+    font-size: 45px;
+}
+/* first section */
 /* triple card section */
-
+.triple-card{
+    display: flex;
+    margin-bottom: 100px;
+}
+.cardimg{
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.para1{
+    width: 80%;
+    font-size: 18px;
+}
+.para{
+    width: 90%;
+    margin-bottom: 25px;
+    text-align: left;
+}
+.card-thumb{
+    font-size: 25px;
+}
+.triple{
+        width: 20%;
+        margin-left: 180px;
+        margin-right: -12%;
+        padding-left: 30px;
+        padding-right: 10px;
+        box-shadow: 10px 10px 40px #80808031;
+        border-radius: 20px;
+}
+.triple-color1{
+    background-color: #eba1eb5e;
+}
+.triple-color2{
+    background-color: #40e0d042;
+}
+.triple-color3{
+    background-color:#2372b336 ;
+}
 /* triple card section end */
+
+/* third section */
+.dev-limit{
+    width: 90%;
+    font-size: 35px;
+    margin-left: -105px;
+    margin-top: 60px;
+}
+.para2{
+    width: 80%;
+    font-size: 18px;
+    margin-left: -105px;
+}
+/* third section end */
+
+/* fourth section */
+.com{
+    width: 90%;
+    font-size: 40px;
+    margin-top: 60px;
+}
+.para3{
+    width: 80%;
+    font-size: 18px;
+}
+/* end of fourth section */
+
+/* fifth section */
+.share{
+    width: 90%;
+    font-size: 35px;
+    margin-left: -135px;
+    margin-top: 5px;
+}
+.para4{
+    width: 80%;
+    font-size: 18px;
+    margin-left: -135px;
+    margin-top: -30px;
+}
+/* fifth section */
+
+/* footer section */
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+/* end of footer section */
