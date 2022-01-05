@@ -21,7 +21,23 @@ span{
 .mission-text{
     width: 60%;
     font-size: 50px;
+    margin-left: 10px;
 }
 p{
     text-align: justify;
 }
+.heading{
+    border-left: 5px #73a2e9 solid;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(#8c8cf3, #4093f3);
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-size: larger;
+    font-weight: 500;
+    color: white;
+}
+/* triple card section */
+
+/* triple card section end */
